@@ -15,3 +15,5 @@
 #novo_salario = aumento + salario
 
 #print(novo_salario)
+
+print('TESTE')
